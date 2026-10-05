@@ -1,0 +1,6 @@
+flask>=3.0
+waitress>=3.0
+pandas>=2.0
+numpy>=1.26
+# Windows only, for live/demo MT5 trading:
+# MetaTrader5>=5.0.45
